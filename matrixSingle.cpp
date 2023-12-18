@@ -1,7 +1,7 @@
 #include<iostream>
 #include<chrono>
 
-#define MAX 4
+#define MAX 1000
 int matA[MAX][MAX];
 int matB[MAX][MAX];
 int result[MAX][MAX];
